@@ -1,4 +1,6 @@
-# partner: Anthony Roig
+# version control encoder/decoder - lab 6
+# Author: Yutaka Stephens
+# Partner: Guilherme Armin Da Silva Anton
 
 def encode():
     # input for the password
